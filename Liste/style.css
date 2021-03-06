@@ -1,0 +1,193 @@
+body{
+	font-family:'Open Sans', Verdana, Helvetica, sans-serif;
+	color:black;
+	width: 1200px;
+    margin: auto;
+	font-size:110%;
+}
+
+#logogauche{
+	display:inline-block;
+	float:left;
+	position: relative;
+	bottom: 30px;
+	
+}
+
+
+
+#logodroite{
+	display:inline-block;
+	float: right;
+	position: relative;
+	bottom: 30px;	
+}
+
+
+header{
+	background-image: url("Capture.PNG");
+	border : solid black;
+	border-radius : 30px;
+	margin : 20px;
+	padding : 10px;
+	text-align: center;
+	}
+
+	
+	
+header h1{
+	font-family: Matura MT Script Capitals;
+}
+	
+
+#menu a{
+		border: solid 3px black;
+		text-decoration : none;
+		color : black;
+		padding : 5px;
+		display:inline-block;
+		background-color: white;
+}
+
+
+main{
+	background-image:url ("fond.PNG");
+	background-color: beige;
+	border : solid black;
+	border-radius : 30px;	
+	margin: 20px;
+	padding: 30px;
+}
+
+
+main h2{
+	font-size : 250%;
+	font-family:'Borealis';
+	text-align : center;
+}
+
+
+section p{
+	padding-top: 90px;
+}
+
+
+#info{
+	display: inline-block;
+	width: 50%;
+	float: left;
+}
+
+
+#image{
+	display: inline-block;
+	width: 30%;	
+}
+
+
+#Entrées img{
+	width: 20em;
+	margin : 20px;
+	margin-left: 7em;
+}
+
+#EntréeUne{
+	text-decoration: underline;
+	margin-top: 40px;
+}	
+
+
+#EntréeDeux{
+	margin-top: 40px;
+	text-decoration: underline;
+}
+
+#PlatResiUn{
+	text-decoration: underline;
+	margin-top: 80px;
+	margin-bottom: 60px;
+	position: relative;
+	top: 50px;
+}
+
+#PlatResiDeux{
+	position: relative;
+	top: 30px;
+	text-decoration: underline;
+}
+
+
+#PlatsDeRésistance img{
+	width: 20em;
+	margin : 20px;
+	margin-left: 7em;
+}
+
+
+#Desserts img{
+	width: 20em;
+	margin : 20px;
+	margin-left: 7em;
+}
+
+#DessertUn{
+	margin-top: 40px;
+	text-decoration: underline;
+}
+
+
+#DessertDeux{
+	
+	text-decoration: underline;
+}
+
+
+#description{
+	font-size: 80%;
+	color: grey;
+	position: relative;
+	bottom: 60px;
+}
+
+
+
+h3{
+	text-decoration: underline;
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 40px;
+}
+
+
+
+section p{
+	position: relative;
+	bottom: 90px;
+}
+
+footer{
+	border : solid black;
+	border-radius : 30px;
+	margin : 20px;
+	padding: 45px;
+	background-image: url('footer.PNG');
+}
+
+
+footer img{
+	
+	display:inline-block;
+	float:left;
+	width : 7em;
+	position: relative;
+	bottom: 88px;
+	right: 20px;
+}
+
+
+footer p{
+	text-align : center;
+	position: relative;
+	font-size:90%;
+	font-family:'Borealis';
+}
